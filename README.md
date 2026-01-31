@@ -2,21 +2,9 @@
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?
-size=32
-&duration=2500
-&pause=800
-&color=00FF00
-&center=true
-&vCenter=true
-&multiline=true
-&width=760
-&cursor=true
-&lines=Hi+👋,+I'm+Dulaj+Ashen;🎓+University+of+Peradeniya;💻+Computer+Engineering+Undergraduate;Welcome+to+my+Matrix..." />
-</p>
-
-
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=3000&color=00FF00&width=760&lines=Hi+👋,+I'm+Dulaj+Ashen;🎓+University+of+Peradeniya;💻+Computer+Engineering+Undergraduate;Welcome+to+my+Matrix..." />
+</div>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dulaje032&label=Profile%20views&color=0e75b6&style=flat" alt="dulaje032" /> </p>
