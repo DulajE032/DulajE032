@@ -2,9 +2,20 @@
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=3000&color=00FF00&width=760&lines=Hi+👋,+I'm+Dulaj+Ashen;🎓+University+of+Peradeniya;💻+Computer+Engineering+Undergraduate;Welcome+to+my+Matrix..." />
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?
+size=32
+&duration=2500
+&pause=800
+&color=00FF00
+&center=true
+&vCenter=true
+&multiline=true
+&width=760
+&cursor=true
+&lines=Hi+👋,+I'm+Dulaj+Ashen;🎓+University+of+Peradeniya;💻+Computer+Engineering+Undergraduate;Welcome+to+my+Matrix..." />
+</p>
+
 
 
 
