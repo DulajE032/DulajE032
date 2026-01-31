@@ -1,23 +1,10 @@
-<!-- Matrix rain background image -->
-<img src="2.png" alt="Matrix rain" width="100%" />
+
 
 <!-- Typing SVG animation below -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=3000&color=00FF00&background=000000&width=760&lines=Hi+👋,+I'm+Dulaj+Ashen;🎓+University+of+Peradeniya;💻+Computer+Engineering+Undergraduate;Welcome+to+my+Matrix..." />
 </p>
 </p>
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
