@@ -1,19 +1,11 @@
-
-
-<!-- Typing SVG animation below -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=3000&color=00FF00&background=000000&width=760&lines=Hi+👋,+I'm+Dulaj+Ashen;🎓+University+of+Peradeniya;💻+Computer+Engineering+Undergraduate;Welcome+to+my+Matrix..." />
-</p>
-</p>
-
-
-
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
 
-<h1 align="center">Hi 👋, I'm Dulaj Ashen</h1>
-<h3 align="center">🎓 Computer Engineering Undergraduate University of Peradeniya, Sri Lanka</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=3000&color=00FF00&width=760&lines=Hi+👋,+I'm+Dulaj+Ashen;🎓+University+of+Peradeniya;💻+Computer+Engineering+Undergraduate;Welcome+to+my+Matrix..." />
+</p>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dulaje032&label=Profile%20views&color=0e75b6&style=flat" alt="dulaje032" /> </p>
 
