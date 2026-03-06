@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **dulajashennew2002@gmail.com**
 
-#Connect With Me:
+##Connect With Me:
 <p align="left">
 <a href="https://linkedin.com/in/dulaj-ashen-a1a95334b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dulaj-ashen-a1a95334b" height="30" width="40" /></a>
 <a href="https://fb.com/dulaj ashen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dulaj ashen" height="30" width="40" /></a>
@@ -29,7 +29,7 @@
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=DulajE032&cache_seconds=7200&layout=compact&theme=github_dark&border_radius=10" alt="DulajE032's GitHub Stats" />
   </a>
 </p>
->
+
 
 ## 🛠️ Languages & Tools
 
