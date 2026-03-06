@@ -15,7 +15,9 @@
 
 - 📫 How to reach me **dulajashennew2002@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+
+  
+#Connect With Me:
 <p align="left">
 <a href="https://linkedin.com/in/dulaj-ashen-a1a95334b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dulaj-ashen-a1a95334b" height="30" width="40" /></a>
 <a href="https://fb.com/dulaj ashen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dulaj ashen" height="30" width="40" /></a>
@@ -35,9 +37,5 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=DulajE032&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dulaje032&show_icons=true&locale=en&layout=compact" alt="dulaje032" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dulaje032&show_icons=true&locale=en" alt="dulaje032" /></p>
 
