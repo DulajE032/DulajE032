@@ -1,13 +1,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Dulaj%20Ashen&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Computer%20Engineering%20Undergraduate&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
 
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=DulajE032">
-    <img src="https://komarev.com/ghpvc/?username=DulajE032&label=Profile%20views&color=00FFFF&style=flat-square" alt="DulajE032's profile views" />
-  </a>
-</p>
-
-
 - 🌱 I’m currently learning **Django,Java Spring boot,c#,python,.Net**
 
 - 📫 How to reach me **dulajashennew2002@gmail.com**
