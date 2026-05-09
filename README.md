@@ -1,7 +1,21 @@
+<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Dulaj%20Ashen&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Computer%20Engineering%20Undergraduate&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0D1B2A,100:1E90FF&text=Dulaj%20Ashen&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Engineering%20Undergraduate&descSize=20&descColor=ffffff&descAlignY=65" width="100%"/>
 
-- 🌱 I’m currently learning **Django,Java Spring boot,c#,python,.Net**
+<br/>
+
+<!-- CLEAN LINE STYLE -->
+<pre style="color:#1E90FF;">
+────────────── ✦ WELLCOME MY PROFILE ✦ ──────────────
+</pre>
+
+<br/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=1E90FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+%26+ML+Enthusiast" />
+
+</div>
+
+- 🌱 I’m currently learning **Backend Development (Django, Spring Boot, .NET), Programming Languages (Python, C#), and Frontend Styling (CSS, Tailwind CSS)**
 
 - 📫 How to reach me **dulajashennew2002@gmail.com**
 
